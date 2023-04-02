@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "words": [],
+  "words": ["Neha", "Belkis", "wireframe"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
