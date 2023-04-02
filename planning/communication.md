@@ -38,7 +38,7 @@ _How often we'll get in touch on each channel:_
 - Neha: _4-5h_;
 - Marina: _4-5h_;
 - Xin: _5-6h_;
-- Belkis: _5h_;
+- Belkis: _2-3h_;
 
 ## Asking for Help
 
