@@ -4,21 +4,38 @@ A series of stories of our website users loving nature and trees 🌲🌲🌲
 
 ## Must-Haves
 
-> these are necessary for basic usability
+> As any type of user, I want:
 
-- Introduction of the website.
-- Pictures and Logos of the website.
-- Nav bar that can help users find information quickly.
+- Nice _title_.
+- _Nav bar_ that can help users find information quickly.
+
+> As a school student, I want:
+
+- Nice written _Introduction_ of the website.
+- Easily find _links_, so that I could find more information about trees.
+
+> As a natural lover, I want:
+
+- _Pictures and Logos_ of the website.
+
+> As a Senior citizen, I want:
+
+- _Blocks of text_ with a simple info about trees.
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+> As a natural lover, I want:
 
-- Link to our social media to keep users updated.
+- Links to some social media to keep me as user updated.
 - Sign up and log in link to keep users coming back.
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+> As any type of user, I want:
 
 - Links to other similar websites.
+- _FAQ page_ where I could find answers for my questions.
+
+> As a nature lover, I want:
+
+- _Section Comments_, so than I could leave comments.
