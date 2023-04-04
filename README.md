@@ -1,9 +1,11 @@
 # All about trees
 
-> This is a website introduces trees and nature 🌲🌿, here you will find a lot of information including but not limited to:
-* Why are trees important 
-* How can we keep them alive
-* Links to other resources
+> This is a website introduces trees and nature 🌲🌿, here you will find a lot
+> of information including but not limited to:
+
+- Why are trees important
+- How can we keep them alive
+- Links to other resources
 
 ## Table of contents
 
@@ -25,7 +27,7 @@
 
 ## General info
 
-> All about tree is presented by Group 4. 
+> All about tree is presented by Group 4.
 
 ## Screenshots
 
