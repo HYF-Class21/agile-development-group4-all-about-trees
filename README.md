@@ -1,10 +1,15 @@
-# Name of project
+# All about trees
 
-> A longer description
+> This is a website introduces trees and nature 🌲🌿, here you will find a lot
+> of information including but not limited to:
+
+- Why are trees important
+- How can we keep them alive
+- Links to other resources
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [All about tree](#name-of-project)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -22,7 +27,7 @@
 
 ## General info
 
-> A short description
+> All about tree is presented by Group 4.
 
 ## Screenshots
 
