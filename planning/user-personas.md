@@ -7,7 +7,7 @@ likely, just starting their journey in discovering more about green vegetation.
 
 <!-- a persona -->
 
-## School student
+## Primary school student
 
 - **Bio**: Max is a primary school student that likes animals and would like to
   learn more about trees that they eat.
