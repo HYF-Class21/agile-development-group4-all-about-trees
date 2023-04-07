@@ -14,11 +14,13 @@
 
 - communicate problems with the task to the team early enough.
 - try roll backs instead of bug fixes.
+- start more discussion with team members.
 
 ## Lessons Learned
 
 - how to prioritize and work in a team
 - basics of agile and task planning
+- linking of css file with html file.
 
 ---
 
