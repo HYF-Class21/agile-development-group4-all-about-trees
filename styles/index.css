@@ -14,3 +14,7 @@
 .aside-text {
   font-family: monospace; /* additional info */
 }
+
+.bottom-divider {
+  border-style: none none solid none;
+}
