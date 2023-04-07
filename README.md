@@ -5,6 +5,7 @@
 
 - Why are trees important
 - How can we keep them alive
+- General information about tree
 - Links to other resources
 
 ## Table of content
@@ -22,6 +23,12 @@
 - HTML
 - Git
 - Css
+- Vs code
+- Markdown
+
+## Methodologies
+
+- Agile
 
 ## Screenshot
 
