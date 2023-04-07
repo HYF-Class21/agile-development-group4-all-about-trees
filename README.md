@@ -15,7 +15,7 @@
 - [Setup](#setup)
 - [TeamMembers](#team-members)
 
-![tree](public/tree.jpeg)
+![tree](public/tr-ee.jpeg)
 
 ## Technology and tools we used
 
@@ -25,7 +25,7 @@
 
 ## Screenshot
 
-![design](public/design.png)
+![design](public/de-sign.png)
 
 ## Features
 
